@@ -1,8 +1,10 @@
-# Strategies
+# Digital @ ESDC
 
-## Actions
+## Actions !
 
-ESDC IITB Digital Strategy
+### ESDC IITB Digital Strategy
+
+2019-2020 Q3
 
 --
 
@@ -13,6 +15,7 @@ ESDC IITB Digital Strategy
 - One GC
 - DevOps high performing stats
 - Recomendations
+- Why?
 - Actions
 - Roadmap
 
@@ -42,7 +45,7 @@ ESDC IITB Digital Strategy
 ### Mandatory EA procedures
 
 - Users
-- Data [open] standards
+- Open standards (data, communication)
 - Open source software
 - Cloud
 
@@ -51,6 +54,18 @@ ESDC IITB Digital Strategy
 --
 
 ### Mandatory API procedures
+
+- Follow the GC Digital Standards
+- Build RESTful APIs
+- Open standards (encoding, date, lang)
+- Good documentation
+- Available on API store
+
+> Validate your API design by consuming it with a production application within your organization
+
+--
+
+# Security !
 
 ---
 
@@ -67,34 +82,40 @@ ESDC IITB Digital Strategy
 - Automated enrolment and dilivery of services
 - Self service - GC Portal of other platforms
   - Single sign-on (Sign-in Canada)
-  - Tell us once
+  - Tell us once (Digital eXchange Platform)
 - Service/call centers and outreach programs
 
 --
 
 ### Private sector
 
-- Can enable GC services for their clients on their platform
+- Can give access to GC services for their clients on their platforms
 
 --
 
 ### ESDC IITB
 
-- Modern high performing organization
-- Work in the open
+- Modern high performing digital organization
+- Work in the open - collaboration
 - Use open standards and open source software
-- API
-
+- Services are APIs first - we use our APIs
+- Agile, DevOps project management
+- Frequent deloyment to production
+- Fast recovery from incidents
+- Continuous improvement and learning
 
 ---
 
 ## Vision 2025
 
+We're doing it !
+
 ---
 
-## One GC
+## Now - One GC
 
 - **Done**
+  - Vision endorsed by EARB - Digital
   - OneGC Council and Clusters
   - API Store (ISED)
 - **Doing (FY19-20)**
@@ -124,6 +145,19 @@ ESDC IITB Digital Strategy
 - Make digital services a priority for ESDC
 - Align with Digital Standards, EA and API procedures
 - Continously improve "high performer" capabilities
+
+How?
+
+--
+
+### Cultural
+
+- Support a generative culture (as outlined by Westrum)
+- Encourage and support learning
+- Support and facilitate collaboration among teams
+- Provide resources and tools that make work meaningful
+- Support or embody transformational leadership
+
 
 ---
 

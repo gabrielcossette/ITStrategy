@@ -2,9 +2,7 @@
 
 ## Actions !
 
-### ESDC IITB Digital Strategy
-
-2019-2020 Q3
+### ESDC IITB IT (Digital) Strategy
 
 --
 
@@ -13,7 +11,7 @@
 - GC Policy on Service and Digital
 - Visions 2030
 - One GC
-- DevOps high performing stats
+- High performing IT stats
 - Recomendations
 - Why?
 - Actions
@@ -100,15 +98,21 @@
 - Use open standards and open source software
 - Services are APIs first - we use our APIs
 - Agile, DevOps project management
-- Frequent deloyment to production
+- Frequent deloyments to production
 - Fast recovery from incidents
-- Continuous improvement and learning
+- Meaningful work and learning opertunities
+- Continuous improvements
+
+
 
 ---
 
 ## Vision 2025
 
-We're doing it !
+- Citizens
+- ESDC and CRA
+- Private Sector
+- ESDC IITB
 
 ---
 

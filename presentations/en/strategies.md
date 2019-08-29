@@ -173,14 +173,33 @@ But, we need coherent actions to push ESDC to become a modern open high performi
 
 ## DevOps high performing stats
 
-High performing organizations:
+### High performing software delivery
 
-- Deploy to production more often
-- Take less time to recover from incidents
-- Take less time to implement new features
-- ..
+- Deployment frequency < 1 week
+- Lead time for change < 1 week
+- Time to restore < 1 day
+- Change fail rate < 15%
 
-2019 State of DevOps
+--
+
+### Low performing software delivery
+
+- Throughput
+  - Deployment frequency : 1-6 months
+  - Lead time for change : 1-6 months
+- Stability
+  - Time to restore : 1-4 weeks
+  - Change fail rate < 46-60%
+
+--
+
+### 2019 State of DevOps
+
+https://cloud.google.com/devops/state-of-devops/
+
+> Don't approach these metrics as representing a set of trade-offs, believing that increasing throughput will negatively impact the reliability of the software delivery process and the availability of services.
+
+> For six years in a row our research has consistently shown that speed and stability are outcomes that enable each other
 
 ---
 

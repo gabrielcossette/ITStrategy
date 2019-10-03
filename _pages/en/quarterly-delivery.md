@@ -36,5 +36,5 @@ In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/)
 Ensuring one prioritizes their priorities properly, ensures that the most value is delivered early on in the project.
 This allows for an alternate model of project management, on where we 'always cancel successful projects, not failing ones'.
 
-A world of opportunities awaits IITB in our [long term plan](./it-picture-long-term.md) if we are able to realize the benefits of treading the path that has already been laid before us by the high performers and world leaders from the IT community.
+A world of opportunities awaits IITB in our [long term plan](it-picture-long-term.html) if we are able to realize the benefits of treading the path that has already been laid before us by the high performers and world leaders from the IT community.
 Without it, in the world of running 10 year projects our 5 year trajectory is easily predictable -- the organization will look identical to the organization that exists today.

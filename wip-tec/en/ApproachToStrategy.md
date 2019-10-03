@@ -14,7 +14,7 @@ The approach here in is based on the book [Good Strategy, Bad Strategy](http://g
 
 If we can bring ourselves 10 years in the future, how will ESDC Services be provided to citizens?
 
-The [HDLC](../Ideation/HDLC.md), the Canadian Experience, and the [vision section of this proposal](../TeamMandate/ArushiProposal.md#Vision) provide us with the landscape with which we can imagine the future to be.
+The [HDLC](human-development-life-cycle.html), the Canadian Experience, and the [vision section of this proposal](../TeamMandate/ArushiProposal.md#Vision) provide us with the landscape with which we can imagine the future to be.
 
 ### 2. Identify target Key Performance Indicators (KPIs)
 

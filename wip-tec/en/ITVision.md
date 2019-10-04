@@ -1,13 +1,13 @@
 # ESDC's IT Vision
 
-[HDLC](HumanDevelopmentLifeCycle.md) -&gt; [KPIs](IITB_KPIs.md) -&gt; IT Vision -&gt; Guiding Principles -&gt; IT Strategies (roadmap)
+[HDLC](human-development-life-cycle.html) -&gt; [KPIs](iitb-kpi.html) -&gt; IT Vision -&gt; Guiding Principles -&gt; IT Strategies (roadmap)
 
 The following is ESDC's IT Vision.
 It paints a vision of the future of IT within ESDC.
 It is **not** time bound, but rather as an ideal state to which ESDC IT needs to strive to get to.
 Such state will continuously evolve when new information and knowledge is captured, re-adjusting the vision in the process.
 
-The IT Vision complements the [HDLC](human-development-life-cycle.html) story which is taken from the point of view of the citizen, and the [KPIs](IITB_KPIs.md) which define the performance metrics needed to sustain the HDLC, by providing the point of view of the organization's IT capabilities.
+The IT Vision complements the [HDLC](human-development-life-cycle.html) story which is taken from the point of view of the citizen, and the [KPIs](iitb-kpi.html) which define the performance metrics needed to sustain the HDLC, by providing the point of view of the organization's IT capabilities.
 
 The IT Vision leverages the work done in the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), ensures alignment with [IITB's high level priorities](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml), and brings the [GC's Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) into ESDC's operational context.
 

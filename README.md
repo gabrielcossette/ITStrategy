@@ -28,7 +28,7 @@ For more information, see [Federal identity requirements](https://www.canada.ca/
 
 ### Development
 
-See [Contributing](./CONTRIBUTING.md) for all the instructions required to on using the project.
+See [Contributing](CONTRIBUTING.md) for all the instructions required to on using the project.
 
 ______________________
 

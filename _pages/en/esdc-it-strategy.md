@@ -12,6 +12,8 @@ permalink: /esdc-it-strategy.html
 
 The [mission of Employment and Social Development Canada (ESDC)](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/mandate-role.html), including the Labour Program and Service Canada, is to build a stronger and more inclusive Canada, to support Canadians in helping them live productive and rewarding lives and improving Canadians' quality of life.
 
+test
+
 This mission is now heavily influenced by the strategic use of technology in delivering services to Canadians.
 As stated in the [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/plans.html), ESDC commits to "continue to transform the delivery of its services to ensure they meet the evolving expectations of Canadians".
 The use of technology in service delivery is reiterated as part of the [Treasury Board (TB) Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).

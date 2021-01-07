@@ -56,10 +56,6 @@ The strategy includes:
 
 The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
-Test
-
-https://gg.cc
-
 https://weblibre.ca
 
 ### Target Audience

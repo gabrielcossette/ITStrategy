@@ -58,6 +58,8 @@ The intent behind this strategy is to communicate a decision by the CIO (not yet
 
 Test
 
+https://gg.cc
+
 ### Target Audience
 
 This **strategy document** is targeted to stakeholders involved in determining how IT Products are delivered.

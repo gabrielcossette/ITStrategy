@@ -3,11 +3,9 @@
 .reveal section img { background:none; border:none; box-shadow:none; }
 </style>
 
-# Micro-procurement for digital work
+# Micro-Acquisition for digital work
 
 ESDC IT Strategy team
-
-@DG Committee (6-Oct-2020)
 
 ---
 
@@ -15,27 +13,27 @@ ESDC IT Strategy team
 
 To share with you and get your comments on:
 
-- research on micro-procurement
-- proposed solution for micro-procurement of digital work at ESDC
+- Our research on low dollar value procurement
+- Our proposal - a Micro-Acquisition Pilot for digital work at ESDC
 
 Note:
 
 - we are here to share with you the work we have been doing to understand the micro-procurement landscape as well as our proposal for how to we could facilitate micro-procurement for digital work
-- we are working with the procurement innovation team in CFOB on this initiative and are very interested to get your comments on this as we are looking to move this forward
+- we are working in joint partnership with the procurement innovation team in CFOB on this initiative and are very interested to get your comments on this as we are looking to move this forward
 
 ---
 
 ## Why look at an alternate way to procure digital work?
 
+- Barriers to suppliers means reduced access to talent
 - Lots of time spent on formalizing small contracts
 - Getting external help for ad hoc development work is cumbersome
-- Limited choice of external expertise
 
 Note:
 
+- 95% of small and medium enterprises don't see the GC as a client.  In a recent procurement ombudsman report GC standing offers and supply arrangements are 'cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers in the NCR'. As a result, the GC doesn't get the opportunity to benefit from many of the amazing developer talent that exists in Canada.
 - while small contracts are low dollar value and low risk, they take up the time of procurement officers whose expertise is needed for complex and high-risk procurement.
 - although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily), it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
-- Supply arrangements and contract on demand are great but mostly for larger companies, those in the NCR and those who regularly get GC contracts. Barriers exist for freelancers and startups to access GC contract $.
 
 ---
 
@@ -107,18 +105,18 @@ These stats led them to their recommendation to fast track contracts under $10K
 
 ## Proposed solution
 
-1. a simplified micro-procurement process for open source code
-   (few approvals required, less paperwork, more automation)
-2. a system to share opportunities, find talent and complete contracts
+A one year Micro-Acquisition Pilot consisting of:
 
-Pilot for one year and then reassess
+1. A simplified procurement process
+   (few approvals required, less paperwork, more automation)
+2. A website to share opportunities, and find talent
 
 Note:
 
 Solution has 2 components:
 
-1. a simplified back-end procurement process for open source code. Why open source code only ... an area where we could use procurement to advance the GC agenda (use open source code). But if successful this could be broadened to other coding or work packages in IT and beyond.
-2. a front end to facilitate sharing contract opportunities and finding talent
+1. A simplified back-end procurement process for code licenced as open source. Why open source code only ... but that doesn't mean that only folks who are currently using open source solutions or running systems built on open source code could benefit. This pilot could also be used to procure code for proprietary systems such as pipeline scripts to automate processes.
+2. A front end to facilitate sharing contract opportunities and finding talent
 
 we are proposing that this initiative be a pilot for one year and then reassess
 
@@ -129,7 +127,7 @@ we are proposing that this initiative be a pilot for one year and then reassess
 - $10K and under
 - Work that can be done remotely
 - Work that is unclassified
-- Open source code
+- Work that is licenced as open source
 - All work is done in an open repository (e.g., GitHub, GitLab)
 - ESDC only (at this time)
 
@@ -163,18 +161,18 @@ Note:
 
 ## What do we expect to achieve?
 
-- increased use of open source at ESDC
-- access to developers who wouldn’t normally bid on GC IT contracts
-- reduced workload burden on ESDC procurement officers
-- increased knowledge of modern software/tools by IITB employees
-- increased capabilities around agile including breaking work up into smaller chunks (NOT CONTRACT SPLITTING)
+- Access to developers who wouldn’t normally bid on GC IT contracts
+- Reduced workload burden on ESDC procurement officers
+- Increased working in the open
+- Increased knowledge of modern software/tools by IITB employees
+- Increased capabilities around agile including breaking work up into smaller chunks (NOT CONTRACT SPLITTING)
 
 Note:
 
-- simplifying the procurement of open source will encourage the use of open source (bit of a chicken/egg situation)
 - Regarding access to developers, 95% of SMEs surveyed in 2017 do not see the GC as a buyer.
   - Through a **simplified and expedited** process that **reduces the barriers** that these organizations (including startups) and freelancers face, and a **targeted communications strategy** (to diverse businesses such as those that are Black, and Indigenous led), this pilot is **expected to increase access to IT talent that the GC is currently missing out on**
 - reduced workload burden on procurement officers - we propose that they will help put guardrails in place but largely be uninvolved in the micro-procurement process
+- all procured code will be licenced as open source. Could also be a nudge for some teams to open up some of their code in order to easily work with contractors.
 - Strategic procurement of open source code can bring knowledge into IT teams that is not currently there. Suppliers will be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams.
 - Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the **potential to be leveraged as a recruitment tool** for IITB. (CDS has experienced this with COVID Alert)
 
@@ -190,7 +188,7 @@ Note:
 
 Note:
 
-- as mentioned, lots of people see the benefits of having separate processes micro-procurement
+- as mentioned, lots of people see the benefits of having separate processes for micro-procurement
 - there is strong alignment to policy and mandate... ESDC's mandate of "works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market." makes ESDC a good fit to lead this initiative
 - Digital Operations Strategic Plan – which speaks to the need for Procurement Modernization for IT specifically, Agility, and Open Source​
 - Digital Nations Charter commitment (formerly D9) – Open Standards, Open Source, Open Markets, Open Government, and which Canada is a signatory
@@ -204,6 +202,7 @@ Note:
 - Private industry
 - US Government
 - BC Government
+- Yukon Government (in development)
 - QC Government (in development)
 
 Note:
@@ -211,16 +210,16 @@ Note:
 - Lots of folks for us to learn from who are already doing this
 - Many external companies (e.g., Bug Bounty Programs and [goquotes.ca](https://goquotes.ca))
 - US Government has a Micro-purchase threshold that they just increased to $10K and a number of teams are experimenting with this threshold around the procurement of open source code
-- BC Government has the BC Developers Exchange which is their micro-procurement platform.  They have had this for many years. They started small and ultimately went up to $70K for their micro-procurement 'Code with us' platform and as much as $2M for their associated 'Sprint with us' platform. They have really led the way and we are connected with them and learning from them.
+- BC Government has the BC Digital Marketplace (run by their BC Developers Exchange team) which is their micro-procurement platform.  They have had this for many years. They started small and ultimately went up to $70K for their micro-procurement 'Code with us' platform and as much as $2M for their associated 'Sprint with us' platform. They have really led the way and we are connected with them and learning from them.
 - QC Government - had conversations with them...they are also looking at implementing micro-procurement of open source code
 
 ---
 
 ## If this is a good idea, why aren't we doing this in the GC?
 
-- takes commitment from two teams: IT and Finance
-- fear of making a mistake/losing delegated authority/getting fired
-- we did
+- Takes commitment from two teams: IT and Finance
+- Fear of making a mistake/losing delegated authority/getting fired
+- We did
 
 Note:
 
@@ -243,22 +242,22 @@ Note:
   - a **simplified back-end process is required** not just a front end to connect the GC with developers,
   - GC isn't used to breaking work into smaller chunks,
   - the proposal creation process needs to be easier (no more than 2 hrs of work)
-- It ultimately went offline as it did not include simplified back-end procurement processes and it struggled to find a new lead following the completion of the pilot by PCO
+- The pilot was shelved at PCO after one contract as we were unable to get the finance folks on board to change back end processes and also due to resourcing issues and mandate of the department.
 
 ---
 
 ## What about:
 
+- Contract splitting?
 - IP and copyright?
 - Security of the code?
-- Contract splitting?
 - Concerns from Unions?
 
 Note:
 
-- IP and Copyright around GC procurement of open source code is a relatively new area so we are working with lawyers at ISED who work on IP policy as well as our own ESDC IP CoE and we are making in roads with PSPC as we know that their lawyers will need to approve the contract terms and conditions for this initiative.
-- Envision some QA of code that is submitted (would include security).  Ultimately it would be great to have automated security checks and audit functionalities.  These are common place in the industry, so we can leverage existing solutions.
-- Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, audit, and perhaps a limit on re-use of certain suppliers - similar to the way some supply arrangements work)
+- Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, audit, and perhaps a limit on re-use of certain suppliers - similar to the way some supply arrangements work)- IP and Copyright around GC procurement of open source code is a relatively new area so we are working with lawyers at ISED who work on IP policy as well as our own ESDC IP CoE and we are making in roads with PSPC as we know that their lawyers will need to approve the contract terms and conditions for this initiative.
+- There will be QA of code that is submitted.  When it comes to security, we will be evaluating GitHub's new Code Scanning feature. We've talked to CDS about this as they also only use open source code.... "we had Semmle's previous offering LGTM as a requirement for all CDS OS projects, and so will transition it all over to this (code scanning). It really helps with catching errors." (would include security).  Ultimately it would be great to have automated security checks and audit functionalities.  These are common place in the industry, so we can leverage existing solutions.
+- The micro-procurements are intended to supplement the work of employees in short bursts, where the employees have access to specialized resources to help them solve small problems. Once these barriers have been removed, employees can progress with their work.
 - We are also working with CFOB on this.  One suggestion so far has been that any micro-procurement contract would include similar questions that must be answered during any procurement (e.g., confirm that capacity does not exist in-house).  We intend to go the National Union Management Committee to be completely transparent about this pilot.
 - Possibility to integrate auditing methodologies and tools in the back-end process.
 
@@ -266,15 +265,15 @@ Note:
 
 ## What's Next?
 
-- Obtain approval on the business case (being co-sponsored by CFOB)
-- Launch pilot for GCDevEx v.2
-  - Work with CFOB on a streamlined process for procurement and payment
-  - Design and build app
-  - Promote to diverse suppliers
+- Move through the lite project process
+  - EA review
+  - BMPO endorsement
+  - Executive sponsors endorsement (IITB and CFOB)
+  - PPOC endorsement
 
 Note:
 
-- Robert MacGillivary, who is the director responsible for the procurement innovation team, has agreed to co-sponsor the business case
+- This pilot is being proposed as a joint initiative with CFOB. We have been working with the procurement innovation team on this and they are on board and have briefed up to the CFO.
 
 ---
 
@@ -292,19 +291,19 @@ Note:
 
 ## More info
 
-- [GC Developers Exchange brief background](https://sara-sabr.github.io/ITStrategy/GCDevelopers-Exchange.html)
-- [Better tech through micro-procurement](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html) (blog post)
-- [Business case](https://docs.google.com/document/d/1dpsXvXY_iHsgJAAPQzrX8gOhm5ttC_JCCGZKvWRWQZk/edit?usp=sharing) for pilot to simplify micro-procurement of open source code
+- [Micro-Acquisition Pilot page](micro-acquisition-pilot.html)
+- [Better tech through micro-procurement](2020/08/12/better-tech-through-microprocurement-p1.html) (blog post)
+- [Business case (ESDC only)](https://014gc.sharepoint.com/:w:/r/sites/GCDevEx/Shared%20Documents/Business%20Case_%20Micro-procurement_pilot.docx?d=wc7a97aad25884ad78c77096c8357638a&csf=1&web=1&e=neLbxM) for pilot to simplify micro-procurement of open source code
 - [US GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
 
 --
 
 ## Frequently asked questions
 
-Q: Can GC employees bid on GCDevEx opportunities?
+Q: Can GC employees bid on Micro-procurement opportunities?
 
 A: Yes but they can't get paid for them ($ would transfer to their organization).
 
 Q: How is this different from Talent Cloud? Could we use their platform?
 
-A: Talent cloud is focused on HR processes, and GCDevEx is focused on procurement processes, so while there are synergies it's not a perfect fit.
+A: Talent cloud is focused on HR processes, and the micro-procurement pilot is focused on procurement processes, so while there are synergies it's not a perfect fit.

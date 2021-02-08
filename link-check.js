@@ -28,7 +28,7 @@ files.forEach(function(file) {
         return;
     }
 
-//    console.log(chalk.green("Reading: " + file));
+    //console.log(chalk.green("Reading: " + file));
 
     results.forEach(function (result) {
       if(result.status === "dead") {
@@ -40,8 +40,4 @@ files.forEach(function(file) {
           console.log(chalk.red("Dead: " + result.link));
         }
       }// else if (result.status === "error") {
-       // console.log(chalk.yellow("Warning: " + result.link));
-      //}
-    });
   });
-});

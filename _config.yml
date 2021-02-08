@@ -10,7 +10,7 @@ url: "https://sara-sabr.github.io/"
 
 # Build settings
 markdown: kramdown
-include: ["_pages"]
+include: ["_pages", "node_modules"]
 exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
 
 plugins:

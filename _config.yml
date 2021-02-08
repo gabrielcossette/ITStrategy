@@ -10,8 +10,8 @@ url: "https://sara-sabr.github.io/"
 
 # Build settings
 markdown: kramdown
-include: ["_pages", "node_modules/bootstrap"]
-exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md", "node_modules"]
+include: ["_pages"]
+exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
 
 plugins:
   - jekyll-redirect-from

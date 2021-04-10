@@ -57,4 +57,12 @@ else{
 document.getElementsByTagName("head")[0].appendChild(title)
 document.getElementById("markdown-slides").setAttribute("data-markdown", "./presentations/" + markdown);
 
+if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+  alert("Internet Explorer 11 is unfortunately not supported, we'll open it in Microsoft Edge for you")
+  window.location = 'microsoft-edge:' + window.location;
+  setTimeout(function() {
+    window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+  }, 1);
+}
+
 </script>

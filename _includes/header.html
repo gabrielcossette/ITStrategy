@@ -1,7 +1,7 @@
 {%- if page.lang == "fr" -%}
 <script>
   if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
-      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer.\nNous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer.\n\nNous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
     window.location = 'microsoft-edge:' + window.location;
     setTimeout(function() {
       window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
@@ -11,7 +11,7 @@
  {%- else -%}
  <script>
   if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
-      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer.\nWe'll now open this website in Edge for an optimal experience.")  
+      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer.\n\nWe'll now open this website in Edge for an optimal experience.")  
     window.location = 'microsoft-edge:' + window.location;
     setTimeout(function() {
       window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
